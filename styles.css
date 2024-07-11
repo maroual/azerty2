@@ -2,7 +2,7 @@
     width: 100%;
     height:px;
     display: flex;
-    gap: 560px;
+    gap: 650px;
 }
 ul {
     list-style: none;
@@ -207,6 +207,8 @@ width:100%;
  color: aliceblue;
     margin-left:80px ;
     line-height: 40px;
+    text-align: center;
+    font-style: oblique;
 }
 /* ******************************************************************* */
  /* @media (min-width: 768px) {
